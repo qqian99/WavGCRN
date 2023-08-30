@@ -3,7 +3,7 @@ This is the origin Pytorch implementation of WavCRN together with baselines in D
 Qipeng Qian, Tanwi Mallick, "Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for Traffic Forecasting". 
 
 <p align="center">
-<img src=".\img\network.png" height = "" alt="" align=center />
+<img src=".\img\network.jpg" height = "" alt="" align=center />
 <br><br>
 <b>Figure 1.</b> The architecture of DGCRN.
 </p>
@@ -29,6 +29,14 @@ python train_benchmark.py --model 'model_name' --data 'data_name' >> log.txt
 ```
 
 More parameter information can be found in `train_benchmark.py` or the file in the directory of corrsponding model. You can refer to these parameters for experiments, and you can also adjust the parameters to obtain better results.
+
+## <span id="resultslink">Results</span> 
+
+<p align="center">
+<img src="./img/result.png" alt="" align=center />
+<br><br>
+<b>Figure 5.</b>  Results of benchmark.
+</p>
 
 
 
