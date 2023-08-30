@@ -2,6 +2,12 @@
 This is the origin Pytorch implementation of WavCRN together with baselines in DGCRN the following paper:
 Qipeng Qian, Tanwi Mallick, "Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for Traffic Forecasting". 
 
+<p align="center">
+<img src=".\img\network.png" height = "" alt="" align=center />
+<br><br>
+<b>Figure 1.</b> The architecture of DGCRN.
+</p>
+
 ## Requirements
 
 - Python 3.6
