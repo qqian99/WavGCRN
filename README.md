@@ -1,11 +1,11 @@
 # WavGCRN
-This is the origin Pytorch implementation of WavCRN together with baselines in DGCRN the following paper:
+This is the origin Pytorch implementation of WavGCRN together with baselines in DGCRN the following paper:
 Qipeng Qian, Tanwi Mallick, "Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for Traffic Forecasting". 
 
 <p align="center">
 <img src="./img/network2.jpg" alt="" align=center />
 <br><br>
-<b>Figure 1.</b>  
+<b>Figure 1.</b>  Structure of WavGCRN
 </p>
 
 ## Requirements
@@ -35,7 +35,7 @@ More parameter information can be found in `train_benchmark.py` or the file in t
 <p align="center">
 <img src="./img/result.png" alt="" align=center />
 <br><br>
-<b>Figure 5.</b>  Results of benchmark.
+<b>Figure 2.</b>  Results of benchmark.
 </p>
 
 
