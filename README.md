@@ -10,3 +10,8 @@ Qipeng Qian, Tanwi Mallick, "Wavelet-Inspired Multiscale Graph Convolutional Rec
 - torch >= 1.1
 - mxnet == 1.4.1
 - tensorflow >= 2.4.0
+
+## Data
+
+- The description of METR-LA dataset and PEMS_BAY dataset please refers to the repository of [DCRNN](https://github.com/liyaguang/DCRNN).
+
