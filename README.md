@@ -34,6 +34,7 @@ More parameter information can be found in `train_benchmark.py` or the file in t
 
 <p align="center">
 <img src="./img/result.png" alt="" align=center />
+<img src="./img/matrix visualization.png" alt="" align=center />
 <br><br>
 <b>Figure 2.</b>  Results of WavGCRN.
 </p>
